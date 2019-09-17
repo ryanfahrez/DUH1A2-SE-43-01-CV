@@ -1,0 +1,20 @@
+Data Pribadi
+
+Nama			:	Rana Ramadhani Nur Fitriana
+Tempat, Tanggal Lahir	:	Kendari, 13 Desember 2001	
+Alamat			:	Jl. Amarilis No.6 C Kelurahan Watu-Watu Kecamatan Kendari 
+No. HP			:	0823 4457 1978
+Jenis Kelamin		:	Perempuan
+Agama			:	Islam	
+Kewarganegaraan		:	Indonesia	
+Status			:	Belum Menikah	
+Email			:	ranaramadhani@student.telkomuniversity.ac.id
+	
+Riwayat Pendidikan
+
+Pendidikan Formal:
+
+2006 sampai dengan 2007      :  TK Islam Kendari
+2007 sampai dengan 2013      :  SD negeri 07 Kendari Barat
+2013 sampai dengan 2016      :  SMP Negeri 1 Kendari
+2016 sampai dengan 2019      :  SMA Negeri 1 Kendari

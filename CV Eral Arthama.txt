@@ -1,0 +1,11 @@
+              Curriculum Vitae
+
+             ===< Data Diri >===
+             
+1. Nama Lengkap				: Muhammad Eral Arthama
+2. Tempat & Tanggal Lahir	: Pekanbaru, 23 Juni 2000
+3. Alamat					: Jalan Purwosari
+4. Jenis Kelamin			: Laki-laki
+5. Agama					: Islam
+6. No.Hp					: 081268565234
+7. Email					: eralart@student.telkomuniversity.ac.id
